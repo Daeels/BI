@@ -2,6 +2,10 @@
 
 Welcome to Sales and Returns Analysis using Business Intelligence! This is a project that analyzes sales and returns data using Power BI and SQL Server.
 
+
+![Screenshot](home.png)
+
+
 ## Overview 📝
 
 This project uses Power BI and SQL Server to analyze sales and returns data. Power BI is a business analytics service by Microsoft that provides interactive visualizations and business intelligence capabilities with an interface simple enough for end users to create their own reports and dashboards. SQL Server is a relational database management system developed by Microsoft that provides a secure, scalable, and high-performance database platform.
